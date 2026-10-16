@@ -1,6 +1,5 @@
 .gitignore
 .npmignore
-.openapi-generator-ignore
 README.md
 docs/AnimeApi.md
 docs/CommentsApi.md

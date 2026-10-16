@@ -1,4 +1,4 @@
-# @shionstream/shionstream-sdk@1.0.0
+# @shionstream/shionstream-sdk@1.0.1
 
 A TypeScript SDK client for the api.gox.my.id API.
 
@@ -194,7 +194,7 @@ and is automatically generated for ShionStream API using the OpenAPI specificati
 
 
 - API version: `1.0.0`
-- Package version: `1.0.0`
+- Package version: `1.0.1`
 - Generator version: `7.26.0`
 - Build package: `org.openapitools.codegen.languages.TypeScriptFetchClientCodegen`
 

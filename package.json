@@ -1,6 +1,6 @@
 {
   "name": "@shionstream/shionstream-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript SDK for ShionStream API",
   "author": "ShionStream Engineering Team <dev@gox.my.id>",
   "repository": {

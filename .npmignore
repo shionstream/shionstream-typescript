@@ -1,1 +1,7 @@
-README.md
+.github/
+.openapi-generator/
+.openapi-generator-ignore
+src/
+docs/
+tsconfig.json
+tsconfig.esm.json
